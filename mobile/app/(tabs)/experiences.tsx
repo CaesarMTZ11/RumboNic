@@ -3,7 +3,7 @@ import { Text } from "react-native";
 import { ScreenContainer } from "@/src/components/common";
 import { colors, typography } from "@/src/theme";
 
-export default function ExploreScreen() {
+export default function ExperiencesScreen() {
     return (
         <ScreenContainer>
             <Text
@@ -12,7 +12,7 @@ export default function ExploreScreen() {
                     color: colors.text.primary,
                 }}
             >
-                Explorar
+                Experiencias
             </Text>
         </ScreenContainer>
     );
