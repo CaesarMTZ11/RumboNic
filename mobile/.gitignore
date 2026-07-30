@@ -1,43 +1,59 @@
-# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+# ==========================================
+# RumboNic
+# ==========================================
 
-# dependencies
+# Node y Expo
 node_modules/
-
-# Expo
+**/node_modules/
 .expo/
+**/.expo/
+.expo-shared/
 dist/
 web-build/
-expo-env.d.ts
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
 
-# Native
-.kotlin/
-*.orig.*
-*.jks
-*.p8
-*.p12
-*.key
-*.mobileprovision
+# Variables y secretos
+.env
+.env.*
+!.env.example
+*.secret
+secrets.json
 
-# Metro
-.metro-health-check*
+# ASP.NET Core y Visual Studio
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+TestResults/
 
-# debug
-npm-debug.*
-yarn-debug.*
-yarn-error.*
+# Configuraciones locales
+appsettings.Local.json
+appsettings.*.Local.json
 
-# macOS
+# SQL Server
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.trn
+
+# Sistema operativo
 .DS_Store
-*.pem
+Thumbs.db
+desktop.ini
 
-# local env files
-.env*.local
+# VS Code
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
 
-# typescript
-*.tsbuildinfo
-
-app-example
-
-# generated native folders
-/ios
-/android
+# Archivos temporales
+*.tmp
+*.temp
+*.swp
