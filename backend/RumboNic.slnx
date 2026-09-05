@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="RumboNic.API/RumboNic.API.csproj" />
+  <Project Path="RumboNic.Application/RumboNic.Application.csproj" />
+  <Project Path="RumboNic.Domain/RumboNic.Domain.csproj" />
+  <Project Path="RumboNic.Infrastructure/RumboNic.Infrastructure.csproj" />
+</Solution>

@@ -1,0 +1,27 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using RumboNic.Infrastructure.Persistence;
+
+namespace RumboNic.Infrastructure.DependencyInjection;
+
+public static class ServiceCollectionExtensions
+{
+    public static IServiceCollection AddInfrastructure(
+        this IServiceCollection services,
+        IConfiguration configuration)
+    {
+        var connectionString =
+            configuration.GetConnectionString(
+                "DefaultConnection")
+            ?? throw new InvalidOperationException(
+                "No se encontró la cadena de conexión DefaultConnection.");
+
+        services.AddDbContext<ApplicationDbContext>(
+            options =>
+                options.UseSqlServer(
+                    connectionString));
+
+        return services;
+    }
+}

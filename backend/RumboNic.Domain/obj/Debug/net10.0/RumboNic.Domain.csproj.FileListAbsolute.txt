@@ -1,0 +1,12 @@
+C:\Users\lenovo\Documents\Hackathon\RumboNic\backend\RumboNic.Domain\bin\Debug\net10.0\RumboNic.Domain.deps.json
+C:\Users\lenovo\Documents\Hackathon\RumboNic\backend\RumboNic.Domain\bin\Debug\net10.0\RumboNic.Domain.dll
+C:\Users\lenovo\Documents\Hackathon\RumboNic\backend\RumboNic.Domain\bin\Debug\net10.0\RumboNic.Domain.pdb
+C:\Users\lenovo\Documents\Hackathon\RumboNic\backend\RumboNic.Domain\obj\Debug\net10.0\RumboNic.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Documents\Hackathon\RumboNic\backend\RumboNic.Domain\obj\Debug\net10.0\RumboNic.Domain.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\Hackathon\RumboNic\backend\RumboNic.Domain\obj\Debug\net10.0\RumboNic.Domain.AssemblyInfo.cs
+C:\Users\lenovo\Documents\Hackathon\RumboNic\backend\RumboNic.Domain\obj\Debug\net10.0\RumboNic.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\Hackathon\RumboNic\backend\RumboNic.Domain\obj\Debug\net10.0\RumboNic.Domain.sourcelink.json
+C:\Users\lenovo\Documents\Hackathon\RumboNic\backend\RumboNic.Domain\obj\Debug\net10.0\RumboNic.Domain.dll
+C:\Users\lenovo\Documents\Hackathon\RumboNic\backend\RumboNic.Domain\obj\Debug\net10.0\refint\RumboNic.Domain.dll
+C:\Users\lenovo\Documents\Hackathon\RumboNic\backend\RumboNic.Domain\obj\Debug\net10.0\RumboNic.Domain.pdb
+C:\Users\lenovo\Documents\Hackathon\RumboNic\backend\RumboNic.Domain\obj\Debug\net10.0\ref\RumboNic.Domain.dll

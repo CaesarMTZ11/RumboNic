@@ -1,0 +1,16 @@
+C:\Users\lenovo\Documents\Hackathon\RumboNic\backend\RumboNic.Application\bin\Debug\net10.0\RumboNic.Application.deps.json
+C:\Users\lenovo\Documents\Hackathon\RumboNic\backend\RumboNic.Application\bin\Debug\net10.0\RumboNic.Application.dll
+C:\Users\lenovo\Documents\Hackathon\RumboNic\backend\RumboNic.Application\bin\Debug\net10.0\RumboNic.Application.pdb
+C:\Users\lenovo\Documents\Hackathon\RumboNic\backend\RumboNic.Application\bin\Debug\net10.0\RumboNic.Domain.dll
+C:\Users\lenovo\Documents\Hackathon\RumboNic\backend\RumboNic.Application\bin\Debug\net10.0\RumboNic.Domain.pdb
+C:\Users\lenovo\Documents\Hackathon\RumboNic\backend\RumboNic.Application\obj\Debug\net10.0\RumboNic.Application.csproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\Hackathon\RumboNic\backend\RumboNic.Application\obj\Debug\net10.0\RumboNic.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Documents\Hackathon\RumboNic\backend\RumboNic.Application\obj\Debug\net10.0\RumboNic.Application.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\Hackathon\RumboNic\backend\RumboNic.Application\obj\Debug\net10.0\RumboNic.Application.AssemblyInfo.cs
+C:\Users\lenovo\Documents\Hackathon\RumboNic\backend\RumboNic.Application\obj\Debug\net10.0\RumboNic.Application.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\Hackathon\RumboNic\backend\RumboNic.Application\obj\Debug\net10.0\RumboNic.Application.sourcelink.json
+C:\Users\lenovo\Documents\Hackathon\RumboNic\backend\RumboNic.Application\obj\Debug\net10.0\RumboNic.D82E17F7.Up2Date
+C:\Users\lenovo\Documents\Hackathon\RumboNic\backend\RumboNic.Application\obj\Debug\net10.0\RumboNic.Application.dll
+C:\Users\lenovo\Documents\Hackathon\RumboNic\backend\RumboNic.Application\obj\Debug\net10.0\refint\RumboNic.Application.dll
+C:\Users\lenovo\Documents\Hackathon\RumboNic\backend\RumboNic.Application\obj\Debug\net10.0\RumboNic.Application.pdb
+C:\Users\lenovo\Documents\Hackathon\RumboNic\backend\RumboNic.Application\obj\Debug\net10.0\ref\RumboNic.Application.dll
