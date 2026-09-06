@@ -4,6 +4,8 @@ using Microsoft.Extensions.DependencyInjection;
 using RumboNic.Application.Interfaces.Lugares;
 using RumboNic.Infrastructure.Persistence;
 using RumboNic.Infrastructure.Services.Lugares;
+using RumboNic.Application.Interfaces.Catalogos;
+using RumboNic.Infrastructure.Services.Catalogos;
 
 namespace RumboNic.Infrastructure.DependencyInjection;
 
@@ -27,6 +29,10 @@ public static class ServiceCollectionExtensions
         services.AddScoped<
             ILugarService,
             LugarService>();
+
+        services.AddScoped<
+            ICatalogoService,
+            CatalogoService>();
 
         return services;
     }

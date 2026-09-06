@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RumboNic.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f4afb07d960bce1d3b3bb05f18f54cd0c976c1d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0e219c36fd9159519d2503b674cdc8d3a1cf59a")]
 [assembly: System.Reflection.AssemblyProductAttribute("RumboNic.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RumboNic.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
