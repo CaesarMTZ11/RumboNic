@@ -28,6 +28,8 @@ public class ApplicationDbContext : DbContext
 
     public DbSet<Lugar> Lugares => Set<Lugar>();
 
+    public DbSet<Usuario> Usuarios => Set<Usuario>();
+
     public DbSet<LugarCategoria> LugaresCategorias =>
         Set<LugarCategoria>();
 

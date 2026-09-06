@@ -6,6 +6,8 @@ using RumboNic.Infrastructure.Persistence;
 using RumboNic.Infrastructure.Services.Lugares;
 using RumboNic.Application.Interfaces.Catalogos;
 using RumboNic.Infrastructure.Services.Catalogos;
+using RumboNic.Application.Interfaces.Usuarios;
+using RumboNic.Infrastructure.Services.Usuarios;
 
 namespace RumboNic.Infrastructure.DependencyInjection;
 
@@ -33,6 +35,10 @@ public static class ServiceCollectionExtensions
         services.AddScoped<
             ICatalogoService,
             CatalogoService>();
+
+        services.AddScoped<
+            IUsuarioService,
+            UsuarioService>();
 
         return services;
     }
