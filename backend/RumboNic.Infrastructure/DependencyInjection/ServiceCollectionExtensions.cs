@@ -1,7 +1,9 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using RumboNic.Application.Interfaces.Lugares;
 using RumboNic.Infrastructure.Persistence;
+using RumboNic.Infrastructure.Services.Lugares;
 
 namespace RumboNic.Infrastructure.DependencyInjection;
 
@@ -21,6 +23,10 @@ public static class ServiceCollectionExtensions
             options =>
                 options.UseSqlServer(
                     connectionString));
+
+        services.AddScoped<
+            ILugarService,
+            LugarService>();
 
         return services;
     }
